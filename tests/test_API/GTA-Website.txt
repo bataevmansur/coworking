@@ -1,0 +1,45 @@
+GTA WEBSITE COWORKING
+
+kleuren en typografie
+
+	- kleuren
+	
+		- retro: zwart, wit, grijs
+		- gedempte neontinten: paars groen of blauw
+		- jaren 90/2000s websites
+
+	- typografie 
+
+		- eenvoudige fonts, informele stijl
+		- dik font voor buttons
+		- small font voor broodtekst
+
+		- impact, arial, helvetica
+
+Webpagina-indeling/lay-out
+
+	- esthetiek van de jaren '90
+	- vroege internetdagen
+	
+	- grote, duidelijke afbeeldingen
+	- conen met een semi-realistische, 'low-fi' look
+
+Navigatie en knoppen
+
+	- knoppen
+
+		- De knoppen meestal groot en opvallend
+		- licht afgerond 
+		- hover effect: lichte verandering van kleur
+
+	- Navigatie
+	
+		- eenvoudig en intuitief
+		- weinig opties, zeer direct
+		- dropdowns 
+
+animatie en beweging
+
+	- kleine subtiele animatie effecten
+	- hover effecten
+	- in en uit vliegen van effecten
